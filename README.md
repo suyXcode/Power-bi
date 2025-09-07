@@ -26,7 +26,7 @@ It provides **real-time weather updates, forecasts, and air quality analysis** w
 
 ## 📸 Dashboard Preview  
 
-![Weather Dashboard Screenshot](Screenshot.png)  
+![Weather Dashboard Screenshot](sc.png)  
 *(Replace with your actual file path or upload to GitHub repo)*  
 
 ---
